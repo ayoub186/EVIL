@@ -1,0 +1,6 @@
+owner=424295259196096525
+prefix=Aplay
+game=play a free fire
+stayinchannel=true
+songinstatus=false
+token=NjExNDkzODAwNzI0MTM1OTQ4.XVahQQ.r0ZG2uF-TffM41A_fwVhxHkJ1o0
